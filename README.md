@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (ML) Machine Learning Project (simply AI), Story  Writer, & Game Concept 
 - 📫 How to reach me --
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ...
+- ℹ️ Note: i'm literally beginner coder T_T 
 
 <!---
 Darren12380/Darren12380 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
