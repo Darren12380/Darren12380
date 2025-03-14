@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Reharu Kagami (REKA)
 - 👀 I’m interested in AI Technology and Game Development
 - 🌱 I’m currently learning Basic Coding T_T (i'm stuck)
-- 💞️ I’m looking to collaborate on (ML) Machine Learning Project, Story  Writer, & Game Concept 
+- 💞️ I’m looking to collaborate on (ML) Machine Learning Project (simply AI), Story  Writer, & Game Concept 
 - 📫 How to reach me --
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
